@@ -1,0 +1,35 @@
+Maaz Qadry
+qadrymaaz@gmail.com | +91 9318495947 | linkedin.com/in/maazqadry/ | Noida, India
+PROFESSIONAL SUMMARY
+Final-year ECE student at JIIT Noida with strong foundation in Data Analytics, Python, SQL, and Machine Learning. Built end-to-end analytical systems with quantifiable results including a 98% accuracy intrusion detection model. Certified in Data Analytics and AI/ML; seeking a Data Analytics role where engineering rigour meets business insight.
+
+EDUCATION
+B.Tech — Electronics & Communication Engineering – 7.2/10	2022 – 2026
+Jaypee Institute of Information Technology, Noida, India
+CBSE 12th Board Examinations - 94.8%	2022
+Summer Fields School, New Delhi, India
+
+TECHNICAL SKILLS
+Languages: Python, C++, SQL, MATLAB, HTML, CSS, JavaScript
+Data & Analytics: Pandas, NumPy, Scikit-learn, SMOTE, Chi-Square Feature Selection, ROC-AUC Analysis
+ML / AI: Random Forest, KNN, Decision Tree, Model Evaluation, Class Imbalance Handling
+Tools: Jupyter Notebook, Google Colab, Keil, Proteus, Microsoft Office, Power BI | OS: Windows, Ubuntu
+
+PROJECTS
+Silicon-Gallium Arsenide Resonator Based Terahertz Biosensor (Research)	2025 – 2026
+•	Designed a high-Q dielectric–graphene resonance biosensor enabling label-free detection of Cholera and via tunable electrical and magnetic resonances comparable to state-of-the-art literature.
+•	Leveraged 2D graphene's ballistic transport and a heat-resistant dielectric architecture to support multi-analyte sensing and advanced biosensing applications.
+•	Finally applied Machine Learning techniques such as SVM and Random Forest to classify samples as contaminated or safe.
+Intrusion Detection System — Wireless Sensor Networks (ML)	                                  2025
+•	Achieved 98% accuracy with precision, recall, and F1-score all above 0.95 across KNN, Decision Tree, and Random Forest classifiers; applicable to enterprise IoT cybersecurity threat detection.
+•	Applied SMOTE oversampling and Chi-Square feature selection to resolve class imbalance; confirmed Random Forest as the most effective algorithm via ROC-AUC and confusion matrix analysis.
+Smart Device for Women Safety (IoT / Embedded)	2024
+•	Developed a GPS-based safety device with a panic button that sends real-time SMS alerts with live GPS coordinates to a pre-configured emergency contact — end-to-end hardware and software integration.
+
+CERTIFICATIONS
+Introduction to Career Skills in Data Analytics	— LinkedIn Learning
+Artificial Intelligence and Machine Learning	— Kodacy
+
+AWARDS & LANGUAGE PROFICIENCY
+School Academic Scholar — Summer Fields School (2014–15, 2017–18, 2018–19, 2019–20)
+English Proficiency: IELTS Overall Band 8.0 (Listening 8.5 | Reading 8.5 | Speaking 8.0 | Writing 7.0)

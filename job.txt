@@ -1,0 +1,8 @@
+Data Science Intern
+
+Requirements:
+- Python
+- SQL
+- Machine Learning
+- Statistics
+- Data Visualization
